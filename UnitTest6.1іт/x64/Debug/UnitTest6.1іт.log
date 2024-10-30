@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.1іт.cpp
+     Creating library C:\Users\vital\source\repos\LabAP6.2\x64\Debug\UnitTest6.1іт.lib and object C:\Users\vital\source\repos\LabAP6.2\x64\Debug\UnitTest6.1іт.exp
+LINK : warning LNK4232: name UnitTest6.1іт.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest6.1іт.vcxproj -> C:\Users\vital\source\repos\LabAP6.2\x64\Debug\UnitTest6.1іт.dll
